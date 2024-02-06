@@ -5,7 +5,7 @@ I have made a script that work in the unity editor, and doesnt even need a game 
 
 What it does:
 
-It creates a file called <YourSceneName>.autosave.<Number>.unity in a folder it creates (or you created) called Autosaves,
+It creates a file called (YourSceneName).autosave.(Number).unity in a folder it creates (or you created) called Autosaves,
 
 if the amount of autosaves exceed 10, then it deletes one so you dont have billions of autosave files.
 
