@@ -23,3 +23,6 @@ Assets\
 			Game.autosave.7.unity
 		Test\
 			Test.autosave.3.unity
+
+<h3>Windows</h3>
+There is a window in Tools that allows you to configure the autosave!
